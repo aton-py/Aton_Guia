@@ -1,6 +1,13 @@
-# ui_app_test
+Aplicativo de Informações Turísticas - Em construção
 
-A new Flutter project.
+To do : 
+
+- Effects
+- Splash Screen
+- API with all the monumments and places
+- Google maps
+
+![alt text](https://github.com/aton-py/Aton_Guia/blob/master/printscreen.png)
 
 ## Getting Started
 
